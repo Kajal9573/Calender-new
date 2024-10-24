@@ -2,13 +2,14 @@
 This project generates a calendar for a given year. The program utilizes date-related computations to accurately display the calendar month-by-month, including accounting for leap years. The output format lists the days of each month in a user-friendly layout.
 
 Features:-
-Calculates the day of the week for any given date.
 
-Accurately handles leap years (February displays 28 or 29 days based on the year).
+1.Calculates the day of the week for any given date.
 
-Displays the calendar month-by-month with proper day formatting.
+2.Accurately handles leap years (February displays 28 or 29 days based on the year).
 
-Each month's output includes appropriate alignment under weekday columns (Sunday to Saturday).
+3.Displays the calendar month-by-month with proper day formatting.
+
+4.Each month's output includes appropriate alignment under weekday columns (Sunday to Saturday).
 
 Guide for the users to access this projects:-
 
